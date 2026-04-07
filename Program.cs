@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 int a = 10;
-int b = 6;
+int b = 16;
 
 static int Penjumlahan (int var1, int var2)
 {
